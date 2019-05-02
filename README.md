@@ -7,3 +7,5 @@ They were mirrored to https://github.com/adafruit/Adafruit_Learning_System_Guide
 
 ## Feather Holiday Lights
 Arduino sketches to animate holiday lights using Adafruit Feather boards.  See the full guide at: https://learn.adafruit.com/festive-feather-holiday-lights
+
+Please consider buying your parts at [Adafruit.com](https://www.adafruit.com) to support open source code.
